@@ -147,8 +147,8 @@ int main(void)
   /* Infinite loop */
   while (1)
   {
-    printf("YASWANT KUMAR\r\n");
-    printf("21222423310\r\n");
+    printf("ADITAAYAN M\r\n");
+    printf("212223040006\r\n");
     HAL_Delay(500); // 500 ms delay
   }
 }
